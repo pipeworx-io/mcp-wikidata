@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/wikidata",
   "title": "Wikidata",
   "description": "Wikidata MCP — wraps Wikidata API (wikidata.org/w/api.php)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/wikidata",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-wikidata",
