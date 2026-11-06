@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-wikidata",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Wikidata MCP — wraps Wikidata API (wikidata.org/w/api.php)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "wikidata",
     "gatewaySlug": "wikidata",
-    "sourceHash": "v1-3dac081fc997c73d180f176cca740551264e7b9aee73baeb9290cb4cd7e16400",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-429227dd9f2ac5f1ee2b66f4fdd90bdf9ef82b4e8b6713634ada91ce49355d31",
+    "sourceCommit": "78b905fa3a6880dfb85c79150f4bffe8cf50ef00"
   }
 }
